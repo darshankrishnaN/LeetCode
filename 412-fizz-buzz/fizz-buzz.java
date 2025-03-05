@@ -3,7 +3,6 @@ class Solution {
         
         List<String> ar = new ArrayList<>();
         
-        int[] ans = new int[n];
 
         for(int i=1;i<=n;i++){
 
